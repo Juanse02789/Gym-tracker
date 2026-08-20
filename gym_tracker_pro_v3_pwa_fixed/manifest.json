@@ -1,0 +1,10 @@
+{
+  "name": "Gym Tracker Pro",
+  "short_name": "Gym Tracker",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0b0d10",
+  "theme_color": "#111827",
+  "lang": "es",
+  "description": "Entrenamiento, progreso, récords, volumen y calendario."
+}
